@@ -38,7 +38,7 @@ Roi Rodríguez
   <img src="+.jpg" width="50">
   <img src="TEST1/estilo.jpg" width="200">
   <img src="=.jpg" width="100">
-  <img src="TEST1/evolution.gif" width="200">
+  <img src="TEST1/evolution.gif" width="220">
 </p>
 
 <div style="text-align:right"><img src="TEST1/loss_TEST1.png" width="800">
@@ -50,7 +50,7 @@ Roi Rodríguez
   <img src="+.jpg" width="50">
   <img src="TEST2/estilo.jpg" width="200">
   <img src="=.jpg" width="100">
-  <img src="TEST2/evolution.gif" width="200">
+  <img src="TEST2/evolution.gif" width="220">
 </p>
 
 <div style="text-align:right"><img src="TEST2/loss_TEST2.png" width="800">
@@ -58,22 +58,22 @@ Roi Rodríguez
 
 ### ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Content‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ +‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎Style‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  ‎  =‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Synthesized Image
 <p align="left">
-  <img src="TEST3/contido.jpg" width="200">
+  <img src="TEST3/contido.jpg" width="250">
   <img src="+.jpg" width="50">
-  <img src="TEST3/estilo.jpg" width="200">
+  <img src="TEST3/estilo.jpg" width="270">
   <img src="=.jpg" width="100">
-  <img src="TEST3/evolution.gif" width="200">
+  <img src="TEST3/evolution.gif" width="280">
 </p>
 
 <div style="text-align:right"><img src="TEST3/loss_TEST3.png" width="800">
 
 ### ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Content‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ +‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎Style‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  ‎  =‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Synthesized Image
 <p align="left">
-  <img src="TEST4/contido.jpg" width="200">
+  <img src="TEST4/contido.jpg" width="180">
   <img src="+.jpg" width="50">
   <img src="TEST4/estilo.jpg" width="200">
   <img src="=.jpg" width="100">
-  <img src="TEST4/evolution.gif" width="200">
+  <img src="TEST4/evolution.gif" width="220">
 </p>
 
 <div style="text-align:right"><img src="TEST4/loss_TEST4.png" width="800">
