@@ -33,12 +33,12 @@ Roi Rodríguez
 
 
 ### Content  +               Style =
-<p align="center">
+<p align="left">
   <img src="TEST1/contido.jpg" width="200">
   <img src="+.jpg" width="50">
   <img src="TEST1/estilo.jpg" width="200">
   <img src="=.jpg" width="100">
-  <img src="TEST1/evolution.gif" width="300">
+  <img src="TEST1/evolution.gif" width="200">
 </p>
 
 <div style="text-align:right"><img src="TEST1/loss_TEST1.png" width="800">
