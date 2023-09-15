@@ -40,7 +40,7 @@ Roi Rodríguez
 <img src="=.jpg" width="100">
 <img src="TEST1/generated_image_1000.png" width="200">
 
-<img src="Test1\evolution.gif" width="300">
-<img src="Test1\loss_TEST1.png" width="800">
+<img src="Test1/evolution.gif" width="300">
+<img src="TEST1/loss_TEST1.png" width="800">
 
 
