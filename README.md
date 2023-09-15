@@ -41,6 +41,6 @@ Roi Rodríguez
   <img src="TEST1/evolution.gif" width="300">
 </p>
 
-<div style="text-align:center"><img src="TEST1/loss_TEST1.png" width="800">
+<div style="text-align:right"><img src="TEST1/loss_TEST1.png" width="800">
 
 
