@@ -53,7 +53,7 @@ Roi Rodríguez
   <img src="TEST2/evolution.gif" width="200">
 </p>
 
-<div style="text-align:right"><img src="TEST2/loss_TEST1.png" width="800">
+<div style="text-align:right"><img src="TEST2/loss_TEST2.png" width="800">
 
 
 ### ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Content‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ +‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎Style‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  ‎  =‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Synthesized Image
@@ -65,7 +65,7 @@ Roi Rodríguez
   <img src="TEST3/evolution.gif" width="200">
 </p>
 
-<div style="text-align:right"><img src="TEST3/loss_TEST1.png" width="800">
+<div style="text-align:right"><img src="TEST3/loss_TEST3.png" width="800">
 
 ### ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Content‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ +‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎Style‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  ‎  =‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Synthesized Image
 <p align="left">
@@ -76,6 +76,6 @@ Roi Rodríguez
   <img src="TEST4/evolution.gif" width="200">
 </p>
 
-<div style="text-align:right"><img src="TEST4/loss_TEST1.png" width="800">
+<div style="text-align:right"><img src="TEST4/loss_TEST4.png" width="800">
 
 
