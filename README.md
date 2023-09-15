@@ -38,11 +38,9 @@ Roi Rodríguez
   <img src="+.jpg" width="50">
   <img src="TEST1/estilo.jpg" width="200">
   <img src="=.jpg" width="100">
-  <img src="TEST1/generated_image_1000.png" width="200">
+  <img src="TEST1/evolution.gif" width="300">
 </p>
 
-
-<img src="TEST1/evolution.gif" width="300">
-<img src="TEST1/loss_TEST1.png" width="800">
+<div style="text-align:center"><img src="TEST1/loss_TEST1.png" width="800">
 
 
