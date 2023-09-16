@@ -26,9 +26,9 @@ Roi Rodríguez
 ### ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Content‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ +‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎Style‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  ‎  =‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Synthesized Image
 <p align="left">
   <img src="TEST1/contido.jpg" width="200">
-  <img src="+.jpg" width="50">
+  <img src="RESOURCES/+.jpg" width="50">
   <img src="TEST1/estilo.jpg" width="200">
-  <img src="=.jpg" width="100">
+  <img src="RESOURCES/=.jpg" width="100">
   <img src="TEST1/evolution.gif" width="220">
 </p>
 
@@ -38,9 +38,9 @@ Roi Rodríguez
 ### ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Content‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ +‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎Style‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  ‎  =‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Synthesized Image
 <p align="left">
   <img src="TEST2/contido.jpg" width="200">
-  <img src="+.jpg" width="50">
+  <img src="RESOURCES/+.jpg" width="50">
   <img src="TEST2/estilo.jpg" width="200">
-  <img src="=.jpg" width="100">
+  <img src="RESOURCES/=.jpg" width="100">
   <img src="TEST2/evolution.gif" width="220">
 </p>
 
@@ -50,13 +50,13 @@ Roi Rodríguez
 ### ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Content‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ +‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎Style‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎  ‎  ‎  =‎ ‎ ‎ 
 <p align="left">
   <img src="TEST3/contido.jpg" width="250">
-  <img src="+.jpg" width="40">
+  <img src="RESOURCES/+.jpg" width="40">
   <img src="TEST3/estilo.jpg" width="270">
-  <img src="=.jpg" width="60">
+  <img src="RESOURCES/=.jpg" width="60">
  
 ### =‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ Synthesized Image
 <p align="left">
-  <img src="=.jpg" width="60">
+  <img src="RESOURCES/=.jpg" width="60">
   <img src="TEST3/evolution.gif" width="300">
 </p>
 
@@ -65,9 +65,9 @@ Roi Rodríguez
 ### ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Content‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ +‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎Style‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  ‎  =‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Synthesized Image
 <p align="left">
   <img src="TEST4/contido.jpg" width="180">
-  <img src="+.jpg" width="50">
+  <img src="RESOURCES/+.jpg" width="50">
   <img src="TEST4/estilo.jpg" width="200">
-  <img src="=.jpg" width="100">
+  <img src="RESOURCES/=.jpg" width="100">
   <img src="TEST4/evolution.gif" width="220">
 </p>
 
